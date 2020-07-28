@@ -7,7 +7,7 @@
     <a href="/" aria-label="Go Home">
       <img src={svelteLogo} alt="svelte-logo" class="svelte-logo" />
     </a>
-    <img src={tmdbLogo} alt="tmbd-logo" class="tmbd-logo" />
+    <img src={tmdbLogo} alt="tmdb-logo" class="tmdb-logo" />
   </div>
 </header>
 <style>
